@@ -126,8 +126,6 @@ platforms:
     name: "掘金"
   - id: "github"
     name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
   - id: "v2ex"
@@ -140,3 +138,18 @@ platforms:
     name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
+  
+    id: "tencent-hot"
+    name: "腾讯新闻 综合早报"
+    
+    id: "cls-telegraph"
+    name: "财联社 电报"
+    
+    id: "cls-depth"
+    name: "财联社 深度"
+    
+    id: "fastbull-express"
+    name: "法布财经 快讯"
+    
+    id: "fastbull-news"
+    name: "法布财经 头条"
