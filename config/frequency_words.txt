@@ -1,12 +1,11 @@
 DeepSeek
-梁文锋
-宇树
-王兴兴
-智元
-灵犀
-稚晖君
-彭志辉
-@5
+ChatGPT
+Claude
+Grok
+豆包
+doubao
+Gemini
+@10
 
 ai
 !gai
